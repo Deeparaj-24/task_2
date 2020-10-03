@@ -1,5 +1,5 @@
 # task_2
-This repository contains code for task_2.
+This repository contains code for task_2 of Alphabot internship
 
 
 In this task we designed a PID controller from scratch to hold the postion of drone at a specified location. This task required lots of trail and error and team discussions to arrive at the final solution.
